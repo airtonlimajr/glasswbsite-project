@@ -1,4 +1,4 @@
-# Glass Website
+# GLASS WEBSITE
 
 Este projeto foi desenvolvido a partir do HTML5 e CSS3, usando as propriedades do FLEXBOX. 
 <b>Atenção:</b> Projeto conceito.
